@@ -1,0 +1,42 @@
+<script type="text/javascript">
+    RED.nodes.registerType('googlenews',{
+        category: 'function',
+        defaults: {
+            api: {value:"", required:false},
+            keyword: {value:"", required:false},
+            locale: {value:"", required:false},
+            name: {value: "google news"}
+        },
+        color: '#FFFFFF',
+        inputs:1,
+        outputs:1,
+        icon: "googlenews.png",
+        label: function() {
+            return this.name || "google news";
+        }
+    });
+</script>
+
+<script type="text/x-red" data-template-name="googlenews">
+    <div class="form-row">
+        <label for="node-input-api"><i class="fa fa-api"></i>api</label>
+        <input type="text" id="node-input-api" placeholder="api">
+    </div>
+    <div class="form-row">
+        <label for="node-input-keyword"><i class="fa fa-keyword"></i>keyword</label>
+        <input type="text" id="node-input-keyword" placeholder="keyword">
+    </div>
+    <div class="form-row">
+        <label for="node-input-locale"><i class="fa fa-locale"></i>locale</label>
+        <input type="text" id="node-input-locale" placeholder="locale">
+    </div>
+    <div class="form-row">
+        <label for="node-input-name"><i class="icon-tag"></i> Name</label>
+        <input type="text" id="node-input-name" placeholder="Name">
+    </div>
+</script>
+
+<script type="text/x-red" data-help-name="googlenews">
+    <p> <b>msg.payload.keyword needed</b></p>
+    <p> serve google news to json </p>
+</script>

@@ -1,0 +1,40 @@
+{
+  "generator": "NFE/5.0",
+  "title": "\"2021-02-08 삼성전자\" - Google 뉴스",
+  "link": "https://news.google.com/search?q=2021-02-08+%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90&hl=ko&gl=KR&ceid=KR:ko",
+  "language": "ko",
+  "webMaster": "news-webmaster@google.com",
+  "copyright": "2021 Google Inc.",
+  "lastBuildDate": "Tue, 09 Mar 2021 14:00:02 GMT",
+  "description": "Google 뉴스",
+  "items": [
+    {
+      "title": "다시 만개한 81조원 VR 시장…페북이 띄우고 애플 참전, 삼성도 재진격 - 조선비즈",
+      "link": "https://biz.chosun.com/site/data/html_dir/2021/02/08/2021020802426.html",
+      "guid": {
+        "text": "CBMiR2h0dHBzOi8vYml6LmNob3N1bi5jb20vc2l0ZS9kYXRhL2h0bWxfZGlyLzIwMjEvMDIvMDgvMjAyMTAyMDgwMjQyNi5odG1s0gFDaHR0cHM6Ly9tLmJpei5jaG9zdW4uY29tL25ld3MvYXJ0aWNsZS5hbXAuaHRtbD9jb250aWQ9MjAyMTAyMDgwMjQyNg",
+        "isPermaLink": "false"
+      },
+      "pubDate": "Tue, 09 Feb 2021 08:00:00 GMT",
+      "description": "<a href=\"https://biz.chosun.com/site/data/html_dir/2021/02/08/2021020802426.html\" target=\"_blank\">다시 만개한 81조원 VR 시장…페북이 띄우고 애플 참전, 삼성도 재진격</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선비즈</font>",
+      "source": {
+        "text": "조선비즈",
+        "url": "https://biz.chosun.com"
+      }
+    },
+    {
+      "title": "반도체 국산화! ���성전자, SK하이닉스 나선다! 최대 수혜 소부장 대장 株 - 아시아경제",
+      "link": "https://cm.asiae.co.kr/article/2021030910224072422",
+      "guid": {
+        "text": "CBMiMmh0dHBzOi8vY20uYXNpYWUuY28ua3IvYXJ0aWNsZS8yMDIxMDMwOTEwMjI0MDcyNDIy0gE5aHR0cHM6Ly9jbS5hc2lhZS5jby5rci9hbXB2aWV3Lmh0bT9ubz0yMDIxMDMwOTEwMjI0MDcyNDIy",
+        "isPermaLink": "false"
+      },
+      "pubDate": "Tue, 09 Mar 2021 01:35:00 GMT",
+      "description": "<a href=\"https://cm.asiae.co.kr/article/2021030910224072422\" target=\"_blank\">반도체 국산화! 삼성전자, SK하이닉스 나선다! 최대 수혜 소부장 대장 株</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
+      "source": {
+        "text": "아시아경제",
+        "url": "https://cm.asiae.co.kr"
+      }
+    }
+  ]
+}
